@@ -2,7 +2,6 @@
 
 **Intern Name:** Arya Mohanrao Mandke  
 **Intern ID:** qsds2608113
-
 **Domain:** Data Science  
 
 This repository contains the solution for the QSkill Internship Task 1. The goal of this project is to analyze a real-world customer dataset, understand customer behavior, and build machine learning models to predict and prevent customer churn.
